@@ -1,3 +1,0 @@
-audio_5.txt
-image_1.txt
-video_3.txt
